@@ -1,16 +1,52 @@
-## Hello 👋
+# 👋 Hello World I'm Ujunwa Njoku ( **TechyNurse**) 💻⚡👩‍⚕️  
 
-<!--
-**Ujusophy/Ujusophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **LLM Engineer** | **DevOps** | **AI Enthusiast** | **Registered Nurse**  
 
-Here are some ideas to get you started:
+Passionate about pushing the boundaries of **AI**, **Large Language Models (LLMs)**, and **NLP**.  
+🔹 **Building intelligent systems that understand & automate** 🧠⚙️  
+🔹 **Open-source contributor & tech educator** 📢🎥  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 **Tech Stack & Interests**  
+
+| **Area**         | **Tools & Skills** |
+|------------------|-------------------|
+| **LLM & NLP**    | Transformers, LangChain, RAG, Prompt Engineering, Fine-tuning |
+| **AI/ML**        | PyTorch, TensorFlow, Hugging Face, OpenAI, LLama |
+| **DevOps**       | Docker, Kubernetes, CI/CD, AWS, Terraform |
+| **Coding**       | Python, JavaScript, Bash |
+| **Other**        | Git, Linux, Automation, MLOps |
+
+---
+
+### 🌟 **What I’m Up To**  
+
+- 🔍 **Exploring** the frontiers of **LLM interpretability & alignment**  
+- � **Fine-tuning & optimizing** open-source models for real-world use  
+- 📢 **Speaking & creating content** on **AI, LLMs, and career transitions**  
+- 🤝 **Collaborating** on **AI projects**  
+
+---
+
+### 📬 **Let’s Connect!**  
+
+💬 Ask me about **LLMs or career pivots!**  
+
+⭐ **Fun Fact:** I Love Teaching and Sharing my knoweledge! 😆  
+
+📌 **Find me here:**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/njoku-ujunwa-sophia) 
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Techynurse1)  
+
+---
+
+### 📈 **GitHub Stats**  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujusophy&show_icons=true&theme=radical)  
+
+---
+
+**Thanks for stopping by!** 🚀  
