@@ -1,4 +1,6 @@
-# 👋 Hello World I'm Ujunwa Njoku ( **TechyNurse**) 💻⚡👩‍⚕️  
+# 👋 Hello
+
+## I'm Ujunwa Njoku ( **TechyNurse**) 💻⚡👩‍⚕️  
 
 ### 🚀 **LLM Engineer** | **DevOps** | **AI Enthusiast** | **Registered Nurse**  
 
