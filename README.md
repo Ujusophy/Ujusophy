@@ -2,7 +2,7 @@
 
 ## I'm Ujunwa Njoku ( **TechyNurse**) 💻⚡👩‍⚕️  
 
-### 🚀 **LLM Engineer** | **DevOps** | **AI Enthusiast** | **Registered Nurse**  
+### 🚀 **AI Engineer** | **DevOps** | **ML Enthusiast** | **Registered Nurse**  
 
 Passionate about pushing the boundaries of **AI**, **Large Language Models (LLMs)**, and **NLP**.  
 🔹 **Building intelligent systems that understand & automate** 🧠⚙️  
