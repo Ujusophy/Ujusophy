@@ -45,10 +45,4 @@ Passionate about pushing the boundaries of **AI**, **Large Language Models (LLMs
 
 ---
 
-### 📈 **GitHub Stats**  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ujusophy&show_icons=true&theme=radical)  
-
----
-
 **Thanks for stopping by!** 🚀  
